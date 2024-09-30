@@ -1,0 +1,1 @@
+export const BASE_URL= "https://rag-chatbot-js-fiqvnp6.svc.aped-4627-b74a.pinecone.io"
