@@ -81,8 +81,8 @@ export const processTextFile = async (filePath, originalFileName, namespace = 'd
         }
 
         const splitter = new RecursiveCharacterTextSplitter({
-            chunkSize: 300, 
-            chunkOverlap: 100,
+            chunkSize: 500, 
+            chunkOverlap: 200,
             separators: ['\n\n', '\n', ' ', ''],
         });
 

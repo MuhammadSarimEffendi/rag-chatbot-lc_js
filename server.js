@@ -10,7 +10,6 @@ dotenv.config();
 const app = express();
 const PORT = process.env.PORT || 3000;
 
-// Middleware
 app.use(cors());
 app.use(express.json());
 
@@ -25,8 +24,7 @@ const testConnections = async () => {
     }
 };
 
-// Use file upload routes
-app.use('/api', fileRoutes); // Prefix your routes with `/api` if desired
+app.use('/api', fileRoutes); 
 
 app.post('/chat', async (req, res) => {
     const { query } = req.body; 

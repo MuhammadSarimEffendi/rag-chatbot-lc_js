@@ -1,0 +1,1200 @@
+[
+    {
+        "industry_id": "3",
+        "industry_name": "Hair Beauty",
+        "sub_industry_name": "Hair Beauty: Hair salons, beauty spas, haircare products.",
+        "document_title": "Hair Dash",
+        "project_description": "Hair Dash basically allows folks who are unable to commute to have access to hair beauty supply products via delivery orders being accepted by a driver.",
+        "tags": "Application Structure Databsae and Protocol, ecommerce beauty product",
+        "subfeatures": [
+            {
+                "sub_feature_id": "71",
+                "sub_feature_name": "Advertisement Management",
+                "estimatedHours": [
+                    {
+                        "type": "android_hours",
+                        "hours": "32"
+                    },
+                    {
+                        "type": "ios_hours",
+                        "hours": "32"
+                    },
+                    {
+                        "type": "hybrid_hours",
+                        "hours": "0"
+                    },
+                    {
+                        "type": "api_hours",
+                        "hours": "24"
+                    },
+                    {
+                        "type": "website_hours",
+                        "hours": "0"
+                    }
+                ],
+                "hourly_rate": "40"
+            },
+            {
+                "sub_feature_id": "91",
+                "sub_feature_name": "Advertisements Managements",
+                "estimatedHours": [
+                    {
+                        "type": "android_hours",
+                        "hours": "0"
+                    },
+                    {
+                        "type": "ios_hours",
+                        "hours": "0"
+                    },
+                    {
+                        "type": "hybrid_hours",
+                        "hours": "0"
+                    },
+                    {
+                        "type": "api_hours",
+                        "hours": "80"
+                    },
+                    {
+                        "type": "website_hours",
+                        "hours": "0"
+                    }
+                ],
+                "hourly_rate": "40"
+            },
+            {
+                "sub_feature_id": "44",
+                "sub_feature_name": "App Architecture Planning",
+                "estimatedHours": [
+                    {
+                        "type": "android_hours",
+                        "hours": "128"
+                    },
+                    {
+                        "type": "ios_hours",
+                        "hours": "128"
+                    },
+                    {
+                        "type": "hybrid_hours",
+                        "hours": "128"
+                    },
+                    {
+                        "type": "api_hours",
+                        "hours": "352"
+                    },
+                    {
+                        "type": "website_hours",
+                        "hours": "88"
+                    }
+                ],
+                "hourly_rate": "40"
+            },
+            {
+                "sub_feature_id": "63",
+                "sub_feature_name": "Application UI UX Designing",
+                "estimatedHours": [
+                    {
+                        "type": "android_hours",
+                        "hours": "48"
+                    },
+                    {
+                        "type": "ios_hours",
+                        "hours": "48"
+                    },
+                    {
+                        "type": "hybrid_hours",
+                        "hours": "0"
+                    },
+                    {
+                        "type": "api_hours",
+                        "hours": "0"
+                    },
+                    {
+                        "type": "website_hours",
+                        "hours": "0"
+                    }
+                ],
+                "hourly_rate": "40"
+            },
+            {
+                "sub_feature_id": "60",
+                "sub_feature_name": "Chat\/Messaging Component (3rd Party Integration)",
+                "estimatedHours": [
+                    {
+                        "type": "android_hours",
+                        "hours": "112"
+                    },
+                    {
+                        "type": "ios_hours",
+                        "hours": "112"
+                    },
+                    {
+                        "type": "hybrid_hours",
+                        "hours": "0"
+                    },
+                    {
+                        "type": "api_hours",
+                        "hours": "192"
+                    },
+                    {
+                        "type": "website_hours",
+                        "hours": "16"
+                    }
+                ],
+                "hourly_rate": "40"
+            },
+            {
+                "sub_feature_id": "58",
+                "sub_feature_name": "Delivery Styling Functionality ",
+                "estimatedHours": [
+                    {
+                        "type": "android_hours",
+                        "hours": "24"
+                    },
+                    {
+                        "type": "ios_hours",
+                        "hours": "24"
+                    },
+                    {
+                        "type": "hybrid_hours",
+                        "hours": "0"
+                    },
+                    {
+                        "type": "api_hours",
+                        "hours": "16"
+                    },
+                    {
+                        "type": "website_hours",
+                        "hours": "0"
+                    }
+                ],
+                "hourly_rate": "40"
+            },
+            {
+                "sub_feature_id": "99",
+                "sub_feature_name": "Dynamic Dashboard",
+                "estimatedHours": [
+                    {
+                        "type": "android_hours",
+                        "hours": "0"
+                    },
+                    {
+                        "type": "ios_hours",
+                        "hours": "0"
+                    },
+                    {
+                        "type": "hybrid_hours",
+                        "hours": "0"
+                    },
+                    {
+                        "type": "api_hours",
+                        "hours": "208"
+                    },
+                    {
+                        "type": "website_hours",
+                        "hours": "0"
+                    }
+                ],
+                "hourly_rate": "40"
+            },
+            {
+                "sub_feature_id": "51",
+                "sub_feature_name": "Ecommerce Component (add to cart, checkout, pay online)",
+                "estimatedHours": [
+                    {
+                        "type": "android_hours",
+                        "hours": "20"
+                    },
+                    {
+                        "type": "ios_hours",
+                        "hours": "20"
+                    },
+                    {
+                        "type": "hybrid_hours",
+                        "hours": "0"
+                    },
+                    {
+                        "type": "api_hours",
+                        "hours": "40"
+                    },
+                    {
+                        "type": "website_hours",
+                        "hours": "0"
+                    }
+                ],
+                "hourly_rate": "40"
+            },
+            {
+                "sub_feature_id": "45",
+                "sub_feature_name": "End-to-End Application UI\/UX Including Logo Conceptualization\/Creation ",
+                "estimatedHours": [
+                    {
+                        "type": "android_hours",
+                        "hours": "176"
+                    },
+                    {
+                        "type": "ios_hours",
+                        "hours": "176"
+                    },
+                    {
+                        "type": "hybrid_hours",
+                        "hours": "0"
+                    },
+                    {
+                        "type": "api_hours",
+                        "hours": "80"
+                    },
+                    {
+                        "type": "website_hours",
+                        "hours": "96"
+                    }
+                ],
+                "hourly_rate": "40"
+            },
+            {
+                "sub_feature_id": "56",
+                "sub_feature_name": "Favoriting Feature with Functionality to Manage Favorites Listings",
+                "estimatedHours": [
+                    {
+                        "type": "android_hours",
+                        "hours": "24"
+                    },
+                    {
+                        "type": "ios_hours",
+                        "hours": "24"
+                    },
+                    {
+                        "type": "hybrid_hours",
+                        "hours": "0"
+                    },
+                    {
+                        "type": "api_hours",
+                        "hours": "32"
+                    },
+                    {
+                        "type": "website_hours",
+                        "hours": "0"
+                    }
+                ],
+                "hourly_rate": "40"
+            },
+            {
+                "sub_feature_id": "52",
+                "sub_feature_name": "Find Drivers Functionality (Connecting, Cancelling, in-app call and chat Etc.)",
+                "estimatedHours": [
+                    {
+                        "type": "android_hours",
+                        "hours": "20"
+                    },
+                    {
+                        "type": "ios_hours",
+                        "hours": "20"
+                    },
+                    {
+                        "type": "hybrid_hours",
+                        "hours": "0"
+                    },
+                    {
+                        "type": "api_hours",
+                        "hours": "40"
+                    },
+                    {
+                        "type": "website_hours",
+                        "hours": "0"
+                    }
+                ],
+                "hourly_rate": "40"
+            },
+            {
+                "sub_feature_id": "96",
+                "sub_feature_name": "General Content Management (FAQs, Terms & Conditions, Privacy Policy etc.)",
+                "estimatedHours": [
+                    {
+                        "type": "android_hours",
+                        "hours": "0"
+                    },
+                    {
+                        "type": "ios_hours",
+                        "hours": "0"
+                    },
+                    {
+                        "type": "hybrid_hours",
+                        "hours": "0"
+                    },
+                    {
+                        "type": "api_hours",
+                        "hours": "72"
+                    },
+                    {
+                        "type": "website_hours",
+                        "hours": "0"
+                    }
+                ],
+                "hourly_rate": "40"
+            },
+            {
+                "sub_feature_id": "54",
+                "sub_feature_name": "GPS Integration for Tracking & Location Based Filtering",
+                "estimatedHours": [
+                    {
+                        "type": "android_hours",
+                        "hours": "176"
+                    },
+                    {
+                        "type": "ios_hours",
+                        "hours": "176"
+                    },
+                    {
+                        "type": "hybrid_hours",
+                        "hours": "0"
+                    },
+                    {
+                        "type": "api_hours",
+                        "hours": "208"
+                    },
+                    {
+                        "type": "website_hours",
+                        "hours": "0"
+                    }
+                ],
+                "hourly_rate": "40"
+            },
+            {
+                "sub_feature_id": "82",
+                "sub_feature_name": "ID Scan SDK Integration for automated license approval",
+                "estimatedHours": [
+                    {
+                        "type": "android_hours",
+                        "hours": "32"
+                    },
+                    {
+                        "type": "ios_hours",
+                        "hours": "32"
+                    },
+                    {
+                        "type": "hybrid_hours",
+                        "hours": "0"
+                    },
+                    {
+                        "type": "api_hours",
+                        "hours": "48"
+                    },
+                    {
+                        "type": "website_hours",
+                        "hours": "0"
+                    }
+                ],
+                "hourly_rate": "40"
+            },
+            {
+                "sub_feature_id": "97",
+                "sub_feature_name": "Notifications Management",
+                "estimatedHours": [
+                    {
+                        "type": "android_hours",
+                        "hours": "28"
+                    },
+                    {
+                        "type": "ios_hours",
+                        "hours": "16"
+                    },
+                    {
+                        "type": "hybrid_hours",
+                        "hours": "0"
+                    },
+                    {
+                        "type": "api_hours",
+                        "hours": "906"
+                    },
+                    {
+                        "type": "website_hours",
+                        "hours": "0"
+                    }
+                ],
+                "hourly_rate": "40"
+            },
+            {
+                "sub_feature_id": "83",
+                "sub_feature_name": "Option to upload\/scan documents ",
+                "estimatedHours": [
+                    {
+                        "type": "android_hours",
+                        "hours": "24"
+                    },
+                    {
+                        "type": "ios_hours",
+                        "hours": "24"
+                    },
+                    {
+                        "type": "hybrid_hours",
+                        "hours": "0"
+                    },
+                    {
+                        "type": "api_hours",
+                        "hours": "32"
+                    },
+                    {
+                        "type": "website_hours",
+                        "hours": "0"
+                    }
+                ],
+                "hourly_rate": "40"
+            },
+            {
+                "sub_feature_id": "59",
+                "sub_feature_name": "Orders History",
+                "estimatedHours": [
+                    {
+                        "type": "android_hours",
+                        "hours": "16"
+                    },
+                    {
+                        "type": "ios_hours",
+                        "hours": "16"
+                    },
+                    {
+                        "type": "hybrid_hours",
+                        "hours": "0"
+                    },
+                    {
+                        "type": "api_hours",
+                        "hours": "24"
+                    },
+                    {
+                        "type": "website_hours",
+                        "hours": "0"
+                    }
+                ],
+                "hourly_rate": "40"
+            },
+            {
+                "sub_feature_id": "90",
+                "sub_feature_name": "Orders Management",
+                "estimatedHours": [
+                    {
+                        "type": "android_hours",
+                        "hours": "0"
+                    },
+                    {
+                        "type": "ios_hours",
+                        "hours": "0"
+                    },
+                    {
+                        "type": "hybrid_hours",
+                        "hours": "0"
+                    },
+                    {
+                        "type": "api_hours",
+                        "hours": "296"
+                    },
+                    {
+                        "type": "website_hours",
+                        "hours": "0"
+                    }
+                ],
+                "hourly_rate": "40"
+            },
+            {
+                "sub_feature_id": "68",
+                "sub_feature_name": "Orders Management (list of orders, details, set statuses)",
+                "estimatedHours": [
+                    {
+                        "type": "android_hours",
+                        "hours": "32"
+                    },
+                    {
+                        "type": "ios_hours",
+                        "hours": "32"
+                    },
+                    {
+                        "type": "hybrid_hours",
+                        "hours": "0"
+                    },
+                    {
+                        "type": "api_hours",
+                        "hours": "64"
+                    },
+                    {
+                        "type": "website_hours",
+                        "hours": "0"
+                    }
+                ],
+                "hourly_rate": "40"
+            },
+            {
+                "sub_feature_id": "61",
+                "sub_feature_name": "Payment Gateway Integration for online Payments",
+                "estimatedHours": [
+                    {
+                        "type": "android_hours",
+                        "hours": "96"
+                    },
+                    {
+                        "type": "ios_hours",
+                        "hours": "96"
+                    },
+                    {
+                        "type": "hybrid_hours",
+                        "hours": "0"
+                    },
+                    {
+                        "type": "api_hours",
+                        "hours": "160"
+                    },
+                    {
+                        "type": "website_hours",
+                        "hours": "0"
+                    }
+                ],
+                "hourly_rate": "40"
+            },
+            {
+                "sub_feature_id": "85",
+                "sub_feature_name": "Payment History",
+                "estimatedHours": [
+                    {
+                        "type": "android_hours",
+                        "hours": "48"
+                    },
+                    {
+                        "type": "ios_hours",
+                        "hours": "48"
+                    },
+                    {
+                        "type": "hybrid_hours",
+                        "hours": "0"
+                    },
+                    {
+                        "type": "api_hours",
+                        "hours": "56"
+                    },
+                    {
+                        "type": "website_hours",
+                        "hours": "0"
+                    }
+                ],
+                "hourly_rate": "40"
+            },
+            {
+                "sub_feature_id": "95",
+                "sub_feature_name": "Payments Management",
+                "estimatedHours": [
+                    {
+                        "type": "android_hours",
+                        "hours": "0"
+                    },
+                    {
+                        "type": "ios_hours",
+                        "hours": "0"
+                    },
+                    {
+                        "type": "hybrid_hours",
+                        "hours": "0"
+                    },
+                    {
+                        "type": "api_hours",
+                        "hours": "624"
+                    },
+                    {
+                        "type": "website_hours",
+                        "hours": "0"
+                    }
+                ],
+                "hourly_rate": "40"
+            },
+            {
+                "sub_feature_id": "73",
+                "sub_feature_name": "Payouts History",
+                "estimatedHours": [
+                    {
+                        "type": "android_hours",
+                        "hours": "24"
+                    },
+                    {
+                        "type": "ios_hours",
+                        "hours": "24"
+                    },
+                    {
+                        "type": "hybrid_hours",
+                        "hours": "0"
+                    },
+                    {
+                        "type": "api_hours",
+                        "hours": "32"
+                    },
+                    {
+                        "type": "website_hours",
+                        "hours": "0"
+                    }
+                ],
+                "hourly_rate": "40"
+            },
+            {
+                "sub_feature_id": "94",
+                "sub_feature_name": "Payouts Management",
+                "estimatedHours": [
+                    {
+                        "type": "android_hours",
+                        "hours": "0"
+                    },
+                    {
+                        "type": "ios_hours",
+                        "hours": "0"
+                    },
+                    {
+                        "type": "hybrid_hours",
+                        "hours": "0"
+                    },
+                    {
+                        "type": "api_hours",
+                        "hours": "104"
+                    },
+                    {
+                        "type": "website_hours",
+                        "hours": "0"
+                    }
+                ],
+                "hourly_rate": "40"
+            },
+            {
+                "sub_feature_id": "66",
+                "sub_feature_name": "Post Registration Profile Management (Bio\/description, products, Location, Password Reset etc.)",
+                "estimatedHours": [
+                    {
+                        "type": "android_hours",
+                        "hours": "32"
+                    },
+                    {
+                        "type": "ios_hours",
+                        "hours": "32"
+                    },
+                    {
+                        "type": "hybrid_hours",
+                        "hours": "0"
+                    },
+                    {
+                        "type": "api_hours",
+                        "hours": "48"
+                    },
+                    {
+                        "type": "website_hours",
+                        "hours": "0"
+                    }
+                ],
+                "hourly_rate": "40"
+            },
+            {
+                "sub_feature_id": "48",
+                "sub_feature_name": "Post Registration Profile Management (Hair product preferences, Location, Password Reset etc.)",
+                "estimatedHours": [
+                    {
+                        "type": "android_hours",
+                        "hours": "32"
+                    },
+                    {
+                        "type": "ios_hours",
+                        "hours": "32"
+                    },
+                    {
+                        "type": "hybrid_hours",
+                        "hours": "0"
+                    },
+                    {
+                        "type": "api_hours",
+                        "hours": "48"
+                    },
+                    {
+                        "type": "website_hours",
+                        "hours": "0"
+                    }
+                ],
+                "hourly_rate": "40"
+            },
+            {
+                "sub_feature_id": "81",
+                "sub_feature_name": "Post Registration Profile Management (Preferences, Location, Password Reset etc.)",
+                "estimatedHours": [
+                    {
+                        "type": "android_hours",
+                        "hours": "32"
+                    },
+                    {
+                        "type": "ios_hours",
+                        "hours": "32"
+                    },
+                    {
+                        "type": "hybrid_hours",
+                        "hours": "0"
+                    },
+                    {
+                        "type": "api_hours",
+                        "hours": "48"
+                    },
+                    {
+                        "type": "website_hours",
+                        "hours": "0"
+                    }
+                ],
+                "hourly_rate": "40"
+            },
+            {
+                "sub_feature_id": "89",
+                "sub_feature_name": "Products Management",
+                "estimatedHours": [
+                    {
+                        "type": "android_hours",
+                        "hours": "0"
+                    },
+                    {
+                        "type": "ios_hours",
+                        "hours": "0"
+                    },
+                    {
+                        "type": "hybrid_hours",
+                        "hours": "0"
+                    },
+                    {
+                        "type": "api_hours",
+                        "hours": "192"
+                    },
+                    {
+                        "type": "website_hours",
+                        "hours": "0"
+                    }
+                ],
+                "hourly_rate": "40"
+            },
+            {
+                "sub_feature_id": "67",
+                "sub_feature_name": "Products Management (CRUD operation)",
+                "estimatedHours": [
+                    {
+                        "type": "android_hours",
+                        "hours": "24"
+                    },
+                    {
+                        "type": "ios_hours",
+                        "hours": "24"
+                    },
+                    {
+                        "type": "hybrid_hours",
+                        "hours": "0"
+                    },
+                    {
+                        "type": "api_hours",
+                        "hours": "48"
+                    },
+                    {
+                        "type": "website_hours",
+                        "hours": "0"
+                    }
+                ],
+                "hourly_rate": "40"
+            },
+            {
+                "sub_feature_id": "62",
+                "sub_feature_name": "Push Notifications with customization",
+                "estimatedHours": [
+                    {
+                        "type": "android_hours",
+                        "hours": "174"
+                    },
+                    {
+                        "type": "ios_hours",
+                        "hours": "174"
+                    },
+                    {
+                        "type": "hybrid_hours",
+                        "hours": "0"
+                    },
+                    {
+                        "type": "api_hours",
+                        "hours": "272"
+                    },
+                    {
+                        "type": "website_hours",
+                        "hours": "88"
+                    }
+                ],
+                "hourly_rate": "40"
+            },
+            {
+                "sub_feature_id": "57",
+                "sub_feature_name": "Ratings & Reviews Component including option to flag\/report users",
+                "estimatedHours": [
+                    {
+                        "type": "android_hours",
+                        "hours": "68"
+                    },
+                    {
+                        "type": "ios_hours",
+                        "hours": "68"
+                    },
+                    {
+                        "type": "hybrid_hours",
+                        "hours": "0"
+                    },
+                    {
+                        "type": "api_hours",
+                        "hours": "88"
+                    },
+                    {
+                        "type": "website_hours",
+                        "hours": "16"
+                    }
+                ],
+                "hourly_rate": "40"
+            },
+            {
+                "sub_feature_id": "92",
+                "sub_feature_name": "Ratings, Reviews & Flagged Content Management",
+                "estimatedHours": [
+                    {
+                        "type": "android_hours",
+                        "hours": "0"
+                    },
+                    {
+                        "type": "ios_hours",
+                        "hours": "0"
+                    },
+                    {
+                        "type": "hybrid_hours",
+                        "hours": "0"
+                    },
+                    {
+                        "type": "api_hours",
+                        "hours": "96"
+                    },
+                    {
+                        "type": "website_hours",
+                        "hours": "0"
+                    }
+                ],
+                "hourly_rate": "40"
+            },
+            {
+                "sub_feature_id": "53",
+                "sub_feature_name": "Real Time Tracking",
+                "estimatedHours": [
+                    {
+                        "type": "android_hours",
+                        "hours": "48"
+                    },
+                    {
+                        "type": "ios_hours",
+                        "hours": "48"
+                    },
+                    {
+                        "type": "hybrid_hours",
+                        "hours": "0"
+                    },
+                    {
+                        "type": "api_hours",
+                        "hours": "64"
+                    },
+                    {
+                        "type": "website_hours",
+                        "hours": "0"
+                    }
+                ],
+                "hourly_rate": "40"
+            },
+            {
+                "sub_feature_id": "46",
+                "sub_feature_name": "Registration & Login with Email Authentication",
+                "estimatedHours": [
+                    {
+                        "type": "android_hours",
+                        "hours": "88"
+                    },
+                    {
+                        "type": "ios_hours",
+                        "hours": "88"
+                    },
+                    {
+                        "type": "hybrid_hours",
+                        "hours": "0"
+                    },
+                    {
+                        "type": "api_hours",
+                        "hours": "168"
+                    },
+                    {
+                        "type": "website_hours",
+                        "hours": "28"
+                    }
+                ],
+                "hourly_rate": "40"
+            },
+            {
+                "sub_feature_id": "84",
+                "sub_feature_name": "Rides Management (list of delivery orders, accept\/reject, in-app call, chat)",
+                "estimatedHours": [
+                    {
+                        "type": "android_hours",
+                        "hours": "32"
+                    },
+                    {
+                        "type": "ios_hours",
+                        "hours": "32"
+                    },
+                    {
+                        "type": "hybrid_hours",
+                        "hours": "0"
+                    },
+                    {
+                        "type": "api_hours",
+                        "hours": "48"
+                    },
+                    {
+                        "type": "website_hours",
+                        "hours": "0"
+                    }
+                ],
+                "hourly_rate": "40"
+            },
+            {
+                "sub_feature_id": "69",
+                "sub_feature_name": "Search Component With Filters For Orders",
+                "estimatedHours": [
+                    {
+                        "type": "android_hours",
+                        "hours": "24"
+                    },
+                    {
+                        "type": "ios_hours",
+                        "hours": "24"
+                    },
+                    {
+                        "type": "hybrid_hours",
+                        "hours": "0"
+                    },
+                    {
+                        "type": "api_hours",
+                        "hours": "48"
+                    },
+                    {
+                        "type": "website_hours",
+                        "hours": "0"
+                    }
+                ],
+                "hourly_rate": "40"
+            },
+            {
+                "sub_feature_id": "55",
+                "sub_feature_name": "Search Component With Filters For Products, Categories, Rates)",
+                "estimatedHours": [
+                    {
+                        "type": "android_hours",
+                        "hours": "32"
+                    },
+                    {
+                        "type": "ios_hours",
+                        "hours": "32"
+                    },
+                    {
+                        "type": "hybrid_hours",
+                        "hours": "0"
+                    },
+                    {
+                        "type": "api_hours",
+                        "hours": "48"
+                    },
+                    {
+                        "type": "website_hours",
+                        "hours": "0"
+                    }
+                ],
+                "hourly_rate": "40"
+            },
+            {
+                "sub_feature_id": "47",
+                "sub_feature_name": "Social Media Registration (Facebook\/Google\/Apple)",
+                "estimatedHours": [
+                    {
+                        "type": "android_hours",
+                        "hours": "72"
+                    },
+                    {
+                        "type": "ios_hours",
+                        "hours": "72"
+                    },
+                    {
+                        "type": "hybrid_hours",
+                        "hours": "0"
+                    },
+                    {
+                        "type": "api_hours",
+                        "hours": "72"
+                    },
+                    {
+                        "type": "website_hours",
+                        "hours": "0"
+                    }
+                ],
+                "hourly_rate": "40"
+            },
+            {
+                "sub_feature_id": "98",
+                "sub_feature_name": "Statistics and Analytics",
+                "estimatedHours": [
+                    {
+                        "type": "android_hours",
+                        "hours": "0"
+                    },
+                    {
+                        "type": "ios_hours",
+                        "hours": "0"
+                    },
+                    {
+                        "type": "hybrid_hours",
+                        "hours": "0"
+                    },
+                    {
+                        "type": "api_hours",
+                        "hours": "152"
+                    },
+                    {
+                        "type": "website_hours",
+                        "hours": "16"
+                    }
+                ],
+                "hourly_rate": "40"
+            },
+            {
+                "sub_feature_id": "50",
+                "sub_feature_name": "Stores  Detailed Profile View Showing Products, Ratings, Price)",
+                "estimatedHours": [
+                    {
+                        "type": "android_hours",
+                        "hours": "24"
+                    },
+                    {
+                        "type": "ios_hours",
+                        "hours": "24"
+                    },
+                    {
+                        "type": "hybrid_hours",
+                        "hours": "0"
+                    },
+                    {
+                        "type": "api_hours",
+                        "hours": "20"
+                    },
+                    {
+                        "type": "website_hours",
+                        "hours": "0"
+                    }
+                ],
+                "hourly_rate": "40"
+            },
+            {
+                "sub_feature_id": "49",
+                "sub_feature_name": "Stores Listings (With Toggles for Filtering based on the location)",
+                "estimatedHours": [
+                    {
+                        "type": "android_hours",
+                        "hours": "24"
+                    },
+                    {
+                        "type": "ios_hours",
+                        "hours": "24"
+                    },
+                    {
+                        "type": "hybrid_hours",
+                        "hours": "0"
+                    },
+                    {
+                        "type": "api_hours",
+                        "hours": "20"
+                    },
+                    {
+                        "type": "website_hours",
+                        "hours": "0"
+                    }
+                ],
+                "hourly_rate": "40"
+            },
+            {
+                "sub_feature_id": "74",
+                "sub_feature_name": "Subscription Component",
+                "estimatedHours": [
+                    {
+                        "type": "android_hours",
+                        "hours": "32"
+                    },
+                    {
+                        "type": "ios_hours",
+                        "hours": "32"
+                    },
+                    {
+                        "type": "hybrid_hours",
+                        "hours": "0"
+                    },
+                    {
+                        "type": "api_hours",
+                        "hours": "48"
+                    },
+                    {
+                        "type": "website_hours",
+                        "hours": "0"
+                    }
+                ],
+                "hourly_rate": "40"
+            },
+            {
+                "sub_feature_id": "93",
+                "sub_feature_name": "Subscriptions Management",
+                "estimatedHours": [
+                    {
+                        "type": "android_hours",
+                        "hours": "0"
+                    },
+                    {
+                        "type": "ios_hours",
+                        "hours": "0"
+                    },
+                    {
+                        "type": "hybrid_hours",
+                        "hours": "0"
+                    },
+                    {
+                        "type": "api_hours",
+                        "hours": "132"
+                    },
+                    {
+                        "type": "website_hours",
+                        "hours": "0"
+                    }
+                ],
+                "hourly_rate": "40"
+            },
+            {
+                "sub_feature_id": "88",
+                "sub_feature_name": "Users Management & Role Management (Users Management for both type of users)",
+                "estimatedHours": [
+                    {
+                        "type": "android_hours",
+                        "hours": "0"
+                    },
+                    {
+                        "type": "ios_hours",
+                        "hours": "0"
+                    },
+                    {
+                        "type": "hybrid_hours",
+                        "hours": "0"
+                    },
+                    {
+                        "type": "api_hours",
+                        "hours": "48"
+                    },
+                    {
+                        "type": "website_hours",
+                        "hours": "0"
+                    }
+                ],
+                "hourly_rate": "40"
+            }
+        ]
+    }
+]
